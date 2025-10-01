@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Travel and Tourism Managemen](https://github.com/phucnguyen2716/Travel-and-Tourism-Managemen)
 
-- 🌱 I’m currently learning **Asp.net mvc**
+- 🌱 I’m currently learning **ASP.NET MVC**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
